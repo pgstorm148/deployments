@@ -1,4 +1,4 @@
-# deployments
+# Deployment Scripts overview
 Scripts to help check the deployment and use for deployment automations
 1. Verify That the Deployment Was Successful
 After deploying an application, the first step is to verify that it's running correctly. This script checks if a given service (e.g., Nginx) is active.
